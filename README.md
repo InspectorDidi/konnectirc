@@ -1,0 +1,2 @@
+# konnectirc
+~ nice bot lol!
